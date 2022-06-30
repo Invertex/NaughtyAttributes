@@ -438,7 +438,7 @@ public class NaughtyComponent : MonoBehaviour
 }
 ```
 
-![inspector](https://github.com/dbrizov/NaughtyAttributes/blob/master/Assets/NaughtyAttributes/Documentation~/BoxGroup_Inspector.gif)
+![inspector](https://github.com/Invertex/NaughtyAttributes/blob/master/Assets/NaughtyAttributes/Documentation~/BoxGroup_Inspector.gif)
 
 ### Foldout
 Makes a foldout group.
